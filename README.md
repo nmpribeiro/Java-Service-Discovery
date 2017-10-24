@@ -10,7 +10,7 @@ Simple gRPC client and servers can be used standalone. java -jar jar_bottle.jar
 Building and Running:
 
     1. You need to check if all dependencies are met
-        1.1. service_discovery and service_register have JmDNS and GetNetworkInterface (add form folder) as dependencies
+        1.1. service_discovery and service_register have JmDNS and GetNetworkInterface (add from folder) as dependencies
     2. all can be built with maven, but I use NetBeans... for now at least...
 
 Known Bugs:
