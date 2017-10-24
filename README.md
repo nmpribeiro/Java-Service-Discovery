@@ -11,7 +11,14 @@ Building and Running:
 
     1. You need to check if all dependencies are met
         1.1. service_discovery and service_register have JmDNS and GetNetworkInterface (add form folder) as dependencies
-    2. all can be built with maven, but I use NetBeans... for now at least
+    2. all can be built with maven, but I use NetBeans... for now at least...
+
+Known Bugs:
+    1. Internal service representation needs to be re-written
+    2. Whole code needs some re-factoring and perhaps even re-drawing
+
+Unknown Bugs (yup.. I think I've spotted something!):
+    1. Does the interface name on the question is the right one? I got confused because wire interface gave me wrong IP... is it still like that? Anyway, that portion of code could be re-tweaked.
 
 Test discovery: Raspberry Pi <-> Laptop/PC
 
