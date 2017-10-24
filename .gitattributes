@@ -1,2 +1,8 @@
 *.jar linguist-language=Java
 *.java linguist-language=Java
+
+simple-grpc-server/target/* linguist-vendored
+simple-grpc-client/target/* linguist-vendored
+service_register/target/* linguist-vendored
+service_discovery/target/* linguist-vendored
+GetNetworkInterface/target/* linguist-vendored
