@@ -98,7 +98,9 @@ RESOURCES & INFORMATION:
             https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
         2. ProtocolLabs: https://protocol.ai/ and their libs: https://libp2p.io (https://github.com/libp2p/js-libp2p-mdns)
         3. Mathia's blog, article on modularity, that shows the use case of mDNS http://mafintosh.com/pragmatic-modularity.html
-        4. Watson's work on top of Mathia's https://github.com/watson/bonjour
+        4. Watson's work on top of Mathia's https://github.com/watson/bonjour (node.js, depends on multicast-dns and multicast-dns-service-types)
         5. BBC MediaScape http://www.bbc.co.uk/rd/projects/mediascape
-        6. Service "Disco" https://github.com/bbc/service-disco - Apache license 2.0
+        6. Service "Disco" https://github.com/bbc/service-disco - Apache license 2.0 (node.js)
         7. Java Multicast DNS (lower level then JmDNS): https://github.com/posicks/mdnsjava (originally created for the Society of Motion Picture and Television Engineers (SMPTE))
+        8. https://github.com/mafintosh/multicast-dns (node.js)
+        9. https://github.com/mafintosh/multicast-dns-service-types (node.js, dependes on multicas-dns)
