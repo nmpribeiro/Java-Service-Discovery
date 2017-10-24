@@ -101,3 +101,4 @@ RESOURCES & INFORMATION:
         4. Watson's work on top of Mathia's https://github.com/watson/bonjour
         5. BBC MediaScape http://www.bbc.co.uk/rd/projects/mediascape
         6. Service "Disco" https://github.com/bbc/service-disco - Apache license 2.0
+        7. Java Multicast DNS (lower level then JmDNS): https://github.com/posicks/mdnsjava (originally created for the Society of Motion Picture and Television Engineers (SMPTE))
